@@ -132,6 +132,10 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Listar.aspx" />
+    <Content Include="Procedures\Atualizar.sql" />
+    <Content Include="Procedures\Deletar.sql" />
+    <Content Include="Procedures\InsereCliente.sql" />
+    <Content Include="Procedures\Selecionar.sql" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
